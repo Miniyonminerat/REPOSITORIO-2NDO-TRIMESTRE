@@ -589,19 +589,20 @@
 
 # CREA UN DICCIONARIO CON {"PAN": 1200, "LECHE": 2000}. SI “PAN” ESTÁ EN EL DICCIONARIO, MUESTRA SU PRECIO; SI NO, MUESTRA “PRODUCTO NO DISPONIBLE”
 
-diccionario_productos_2={
+# diccionario_productos_2={
 
-    "PAN": 1200,
-    "LECHE": 2000
-}
+#    "PAN": 1200,
+#   "LECHE": 2000
+# }
 
-if "PAN" in diccionario_productos_2:
+# if "PAN" in diccionario_productos_2:
 
-    print(f"EL VALOR DEL PAN ES: {diccionario_productos_2["PAN"]}")
+#    print(f"EL VALOR DEL PAN ES: {diccionario_productos_2["PAN"]}")
 
-else:
+# else:
 
-    print("PRODUCTO NO DISPONIBLE EN EL DICCIONARIO ")
+#    print("PRODUCTO NO DISPONIBLE EN EL DICCIONARIO ")
+
 
 
 
