@@ -3,11 +3,6 @@
 numero_de_empleados = int(input("Ingrese la cantidad de empleados a registrar (1-5): "))
 
 empleados = []
-if numero_de_empleados < 1 or numero_de_empleados > 5:
-
-    print("EL NUMERO DE EMPELADOS O SOBRE PASA LA CANTIDAD REQUERIDA O ES MENOR A 1 ")
-
-
 
 # Empleado 1 
 if numero_de_empleados >= 1: 
